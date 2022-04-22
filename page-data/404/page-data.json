@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-404-jsx",
+    "path": "/404/",
+    "result": {"pageContext":{"imageRegex":"/404+?(?=-\\d)/"}},
+    "staticQueryHashes": ["2309088093","4010757035"]}
